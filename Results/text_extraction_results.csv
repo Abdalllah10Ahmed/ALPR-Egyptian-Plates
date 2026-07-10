@@ -1,0 +1,51 @@
+Image,Detected,GroundTruth,Recognized,PlateCorrect
+img_001.jpg,YES,"ra noon ain | 7 2 3 4","ra noon alef | 7 2 3 4",NO
+img_002.jpg,YES,"ra seen jeem | 3 4 6 4","ra seen jeem | 3 4 6 4",YES
+img_003.jpg,YES,"alef fa ta | 4 5 9 5","alef fa ta | 4 5 9 5",YES
+img_004.jpg,YES,"ra dal waw | 2 1 6 9","ra dal waw | 2 1 6 9",YES
+img_005.jpg,YES,"ra seen qaf | 4 5 2 4","ra seen qaf | 4 5 2 4",YES
+img_006.jpg,YES,"ra seen meem | 7 8 9 7","ra seen meem | 7 8 9 7",YES
+img_007.jpg,YES,"ra dal alef | 4 8 7 7","ra dal ha | 4 8 7 7",NO
+img_008.jpg,YES,"ra alef waw | 8 2 6 4","ra alef waw | 8 2 6 4",YES
+img_009.jpg,YES,"dal ba jeem | 9 8 8 7","dal ra jeem | 9 8 8 7",NO
+img_010.jpg,YES,"ra jeem lam | 5 4 1 7","ra jeem lam | 5 4 1 7",YES
+img_011.jpg,YES,"dal alef fa | 6 5 7 6","dal alef fa | 6 5 7 6",YES
+img_012.jpg,YES,"ra alef ta | 9 5 8 2","ra alef ta | 9 5 8 2",YES
+img_013.jpg,YES,"ra sad ain | 3 6 9 2","ra alef | 3 6 9 2",NO
+img_014.jpg,YES,"ra alef jeem | 6 7 6 2","ra alef jeem | 6 7 6 2",YES
+img_015.jpg,YES,"ra ta alef | 7 8 5 1","ra ta alef | 7 8 5 1",YES
+img_016.jpg,YES,"jeem kaf ha | 8 1 9 5","kaf ha | 8 1 9 5",NO
+img_017.jpg,YES,"ain ra dal | 2 3 9 9","ain ra dal | 2 3 9 9",YES
+img_018.jpg,YES,"alef ha lam | 6 5 8 4","ha ha lam | 6 5 8 4",NO
+img_019.jpg,YES,"dal fa | 6 9 4 8","dal fa | 6 9 4 8",YES
+img_020.jpg,YES,"seen noon | 5 1 3 3","seen noon | 5 1 3 3",YES
+img_021.jpg,YES,"ra jeem lam | 7 1 9 8","ra jeem lam | 7 1 9 8",YES
+img_022.jpg,YES,"ra ain alef | 9 4 6 8","ra ain | 9 2 1",NO
+img_023.jpg,YES,"ra noon alef | 8 7 8 5","ra noon alef | 8 7 8 5",YES
+img_024.jpg,YES,"ra fa waw | 3 4 7 2","ra fa waw | 3 4 7 2",YES
+img_025.jpg,YES,"ra ya jeem | 2 3 4 5","ra ya jeem | 2 3 4 5",YES
+img_026.jpg,YES,"dal sad ha | 5 7 5 8","dal seen ha | 5 7 5 8",NO
+img_027.jpg,YES,"ra noon waw | 9 6 8 7","ra noon waw | 9 6 8 7",YES
+img_028.jpg,YES,"ra seen waw | 6 9 4 5","ra seen waw | 6 9 4 5",YES
+img_029.jpg,YES,"ra noon ain | 7 2 3 4","ra noon ain | 7 2 3 4",YES
+img_030.jpg,YES,"ra seen jeem | 3 4 6 4","ra seen jeem | 3 4 6 4",YES
+img_031.jpg,YES,"ra dal alef | 4 9 5 2","ra dal ha | 4 9 5 2",NO
+img_032.jpg,YES,"ha ba | 7 6 7 5","ha ra | 7 6 7 5",NO
+img_033.jpg,YES,"dal ha | 9 3 5 1","dal ha | 1 5 3 9",NO
+img_034.jpg,YES,"ra jeem fa | 7 4 2 7","jeem fa ha | 1 4 2 7",NO
+img_035.jpg,YES,"ra waw alef | 3 8 5 7","ra waw alef | 3 8 5 7",YES
+img_036.jpg,YES,"ra seen alef | 9 4 5 9","ra seen alef | 9 4 5 9",YES
+img_037.jpg,YES,"kaf jeem ta | 9 2 7 1","kaf jeem ta | 1 7 2 9",NO
+img_038.jpg,YES,"ra seen dal | 5 6 4 5","ra seen dal | 5 6 4 5",YES
+img_039.jpg,YES,"ya jeem | 6 4 3 4","ya jeem | 6 4 3 4",YES
+img_040.jpg,YES,"ha ba | 5 5 8 1","ha ba | 5 5 8 1",YES
+img_041.jpg,YES,"ra seen jeem | 3 4 6 4","ra seen jeem | 3 4 6 4",YES
+img_042.jpg,YES,"ra waw qaf | 9 7 1 6","ra waw qaf | 9 7 1 6",YES
+img_043.jpg,YES,"ra qaf ta | 8 1 9 4","ra qaf ta | 8 1 9 4",YES
+img_044.jpg,YES,"ra qaf ta | 3 1 6 8","qaf ta ha | 3 1 6 6 8",NO
+img_045.jpg,YES,"dal ba waw | 2 9 8 9","dal ra waw | 2 9 8 9",NO
+img_046.jpg,YES,"ra ta alef | 8 6 4 6","ra ta alef | 8 6 4 6",YES
+img_047.jpg,YES,"ra noon ya | 6 3 8 1","ra noon ya | 1 3 8 1",NO
+img_048.jpg,YES,"meem kaf | 1 9 3 1","meem kaf | 1 9 3 1",YES
+img_049.jpg,YES,"dal ain ya | 9 1 5 6","dal ain ya | 9 1 5 6",YES
+img_050.jpg,YES,"ra seen waw | 6 9 4 5","ra seen waw | 6 9 4 5",YES

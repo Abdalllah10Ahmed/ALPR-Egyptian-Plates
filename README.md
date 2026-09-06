@@ -1,7 +1,5 @@
 # Automatic License Plate Recognition (ALPR) for Egyptian Plates
 
-# ALPR for Egyptian License Plates
-
 A MATLAB implementation of an Automatic License Plate Recognition (ALPR) system for Egyptian vehicle plates, built entirely with classical image-processing techniques.
 
 The system detects the license plate in a vehicle image, isolates it, converts it into a binary representation, segments Arabic letters and digits, and recognizes each character using template matching—without machine learning or deep learning models.

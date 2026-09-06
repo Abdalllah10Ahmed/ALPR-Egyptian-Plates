@@ -1,9 +1,10 @@
 # Automatic License Plate Recognition (ALPR) for Egyptian Plates
 
-**ECE 228 — Image Processing | Zagazig University, Faculty of Engineering**
-**Electronics and Communications Engineering Department | Group 5**
+# ALPR for Egyptian License Plates
 
-Classical image processing pipeline that detects and reads Egyptian license plates from car photographs — simulating a radar-style traffic camera. Built entirely with MATLAB using classical computer vision techniques: **no deep learning, no neural networks, no pre-trained models, no OCR libraries.**
+A MATLAB implementation of an Automatic License Plate Recognition (ALPR) system for Egyptian vehicle plates, built entirely with classical image-processing techniques.
+
+The system detects the license plate in a vehicle image, isolates it, converts it into a binary representation, segments Arabic letters and digits, and recognizes each character using template matching—without machine learning or deep learning models.
 
 ---
 

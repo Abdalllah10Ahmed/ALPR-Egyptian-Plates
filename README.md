@@ -31,6 +31,34 @@ The pipeline was built and tested on a self-collected dataset of 50 real Egyptia
 
 *\*Full plate exact match was measured on a subset of clearly-captured plates; overall accuracy accounts for the full dataset including harder cases (faded plates, extreme angles).*
 
+### Visual Results
+
+The following example illustrates the complete ALPR pipeline.
+
+<p align="center">
+  <img src="Dataset/img_008.jpg" alt="Original vehicle image" width="700">
+  <br>
+  <em>Figure 1: Original vehicle image.</em>
+</p>
+
+<p align="center">
+  <img src="Results/annotated_img_008.jpg" alt="Detected license plate" width="700">
+  <br>
+  <em>Figure 2: Detected license plate region, marked with a bounding box.</em>
+</p>
+
+<p align="center">
+  <img src="Results/enhanced_img_008.jpg" alt="Extracted and enhanced license plate" width="500">
+  <br>
+  <em>Figure 3: Extracted, deskewed, and standardized license plate.</em>
+</p>
+
+<p align="center">
+  <img src="Results/result_008.jpg" alt="Character recognition result" width="700">
+  <br>
+  <em>Figure 5: Segmented characters and final template-matching recognition result.</em>
+</p>
+
 **Known limitations:**
 - **Faded / low-contrast plates** — segmentation struggles when characters aren't clearly separated from the background
 - **Steep camera angles** — non-zero tilt distorts character shapes enough to confuse template matching in some cases

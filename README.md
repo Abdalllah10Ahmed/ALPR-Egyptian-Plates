@@ -72,7 +72,7 @@ The following example illustrates the complete ALPR pipeline.
 ├── Dataset/          # 50 raw car images (img_001.jpg ... img_050.jpg)
 ├── Docs/             # Project spec, presentation, written report
 ├── Results/          # Pipeline outputs: annotated images, crops, figures, ocr_results.csv
-├── src/              # All MATLAB source code
+├── Src/              # All MATLAB source code
 │   ├── main.m                  # Run the full pipeline on a single image
 │   ├── plate_rec_v2.m          # Stage 1 — plate detection & localization
 │   ├── enhance_plate.m         # Stage 1.5 — deskewing & standardization
@@ -81,7 +81,7 @@ The following example illustrates the complete ALPR pipeline.
 │   ├── run_stage1_outputs.m    # Batch: full Stage 1 deliverables for all 50 images
 │   ├── run_stage1_batch.m      # Batch: quick Stage 1 accuracy + montage
 │   └── run_stage2.m            # Batch: OCR + accuracy report (needs ground truth filled in)
-├── templates/        # Character template library (28 classes, 40×40 px PNGs)
+├── Templates/        # Character template library (28 classes, 40×40 px PNGs)
 └── README.md
 ```
 

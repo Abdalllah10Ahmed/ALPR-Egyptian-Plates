@@ -146,7 +146,7 @@ run_stage2            % Fill in ground truth inside this script, then run for OC
 ```matlab
 [bbox, rawCrop, ~] = plate_rec_v2('Dataset/img_001.jpg', true);
 enhanced = enhance_plate(rawCrop);
-[text, ~, ~] = recognize_plate(enhanced, 'templates', true);
+[text, ~, ~] = recognize_plate(enhanced, 'Templates', true);
 disp(text)
 ```
 

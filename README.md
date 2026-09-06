@@ -54,7 +54,7 @@ The following example illustrates the complete ALPR pipeline.
 </p>
 
 <p align="center">
-  <img src="Results/result_008.jpg" alt="Character recognition result" width="700">
+  <img src="Results/result_008.png" alt="Character recognition result" width="700">
   <br>
   <em>Figure 5: Segmented characters and final template-matching recognition result.</em>
 </p>
